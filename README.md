@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Darshan 👋
 
-<!--
-**Darshan404-oss/Darshan404-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Developer  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Strong foundation in **Data Structures and Algorithms (Java)**
+- Learning **Web Development (HTML, CSS, JavaScript, React)**
+- Interested in building **real-world, practical projects**
+- Actively preparing for **Software Developer placements**
+
+---
+
+### 🛠️ Skills
+- **Programming:** Java, JavaScript
+- **DSA:** Arrays, Linked List, Stack, Queue, Trees, Graphs
+- **Web:** HTML, CSS, JavaScript, React (Learning)
+- **Tools:** Git, GitHub
+
+---
+
+### 📌 Projects
+- 📘 **DSA-Java** – Complete DSA implementation in Java  
+- 🧮 **Scientific Calculator** – HTML based calculator  
+- 🧾 **College Practical Work** – Structured academic programs  
+
+---
+
+### 📫 Contact
+- Email: tonapedarshan1@gmail.com
+
