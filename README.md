@@ -1,34 +1,37 @@
-## Hi, I'm Darshan 👋
+# Hi there, I'm Darshan Tonape 
 
-🎓 Computer Science Student  
-💻 Aspiring Software Developer  
-📍 India
+🎓 Computer Engineering Student
 
----
+ Aspiring Cybersecurity Analyst
 
-### 👨‍💻 About Me
-- Strong foundation in **Data Structures and Algorithms (Java)**
-- Learning **Web Development (HTML, CSS, JavaScript, React)**
-- Interested in building **real-world, practical projects**
-- Actively preparing for **Software Developer placements**
+## About Me
 
----
+I am a Computer Engineering student passionate about Cybersecurity, Ethical Hacking, and Network Security.
 
-### 🛠️ Skills
-- **Programming:** Java, JavaScript
-- **DSA:** Arrays, Linked List, Stack, Queue, Trees, Graphs
-- **Web:** HTML, CSS, JavaScript, React (Learning)
-- **Tools:** Git, GitHub
+Currently, I am learning:
+- Kali Linux
+- Linux
+- Computer Networking
+- Cybersecurity Fundamentals
 
----
+I also have a foundation in Java and Web Development, which helps me understand how applications work and how to secure them.
 
-### 📌 Projects
-- 📘 **DSA-Java** – Complete DSA implementation in Java  
-- 🧮 **Scientific Calculator** – HTML based calculator  
-- 🧾 **College Practical Work** – Structured academic programs  
+## Current Goal
 
----
+Build practical cybersecurity skills through hands-on labs, projects, and continuous learning while preparing for cybersecurity internships.
 
-### 📫 Contact
-- Email: tonapedarshan1@gmail.com
+## Technologies
 
+Programming
+- Java
+- C
+
+Learning
+- Kali Linux
+- Linux
+- Networking
+
+Tools
+- Git
+- GitHub
+- VS Code
