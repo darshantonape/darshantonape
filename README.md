@@ -1,37 +1,52 @@
-# Hi there, I'm Darshan Tonape 
+### Hi there, I'm Darshan Tonape 👋
 
-🎓 Computer Engineering Student
-
- Aspiring Cybersecurity Analyst
+🎓 Final-Year Computer Science Engineering Student
+💻 Full-Stack Developer | Applied Machine Learning
 
 ## About Me
 
-I am a Computer Engineering student passionate about Cybersecurity, Ethical Hacking, and Network Security.
-
-Currently, I am learning:
-- Kali Linux
-- Linux
-- Computer Networking
-- Cybersecurity Fundamentals
-
-I also have a foundation in Java and Web Development, which helps me understand how applications work and how to secure them.
+I'm a final-year CSE student building full-stack web applications (React.js, Node.js, MongoDB) and applied ML projects using Python and Scikit-learn. I care about clean REST APIs, solid MVC architecture, and turning messy real-world problems into working software.
 
 ## Current Goal
 
-Build practical cybersecurity skills through hands-on labs, projects, and continuous learning while preparing for cybersecurity internships.
+Actively seeking Software Engineer / SDE internship and full-time opportunities where I can apply my full-stack and ML skills to real products.
 
 ## Technologies
 
-Programming
-- Java
-- C
+**Programming**
+- Java, JavaScript, Python
 
-Learning
-- Kali Linux
-- Linux
-- Networking
+**Frontend**
+- React.js, HTML5, CSS3
 
-Tools
-- Git
-- GitHub
-- VS Code
+**Backend**
+- Node.js, Express.js
+
+**Databases**
+- MongoDB, MySQL, Firebase Firestore
+
+**Data & ML**
+- NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV
+
+**Tools**
+- Git, GitHub, Postman, Jupyter Notebook, Google Colab, VS Code, Firebase Hosting
+
+## Featured Projects
+
+**AI-Powered Placement Preparation Platform** — React.js, Node.js, Firebase, Gemini API
+Full-stack platform with mock interviews, aptitude tests, coding challenges, resume analysis, and AI feedback.
+
+**Poultry Management System** — React.js, Node.js, MongoDB
+Full-stack farm management app with 6 modules and dashboard analytics; reduced manual tracking effort by 80%.
+
+**Student Performance Prediction System** — Python, Pandas, Scikit-learn
+Regression pipeline predicting student scores; Linear Regression achieved R² of 0.78, outperforming Random Forest.
+
+## Certifications
+- Oracle Cloud Infrastructure 2025 – Certified Generative AI Professional
+- AWS Academy Graduate – Cloud Foundations
+- Programming in Java – NPTEL (IIT Certified)
+
+## Reach Me
+📧 darshantonape.nbnscoe.comp@gmail.com
+🔗 linkedin.com/in/darshan-tonape
