@@ -1,51 +1,53 @@
-### Hi there, I'm Darshan Tonape 👋
+# Hi, I'm Darshan Tonape 👋
 
-🎓 Final-Year Computer Science Engineering Student
-💻 Full-Stack Developer | Applied Machine Learning
+### B.Tech CSE Student | Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-## About Me
+I'm a final-year Computer Science Engineering student interested in cybersecurity, particularly Security Operations Center (SOC) analysis and Blue Team operations.
 
-I'm a final-year CSE student building full-stack web applications (React.js, Node.js, MongoDB) and applied ML projects using Python and Scikit-learn. I care about clean REST APIs, solid MVC architecture, and turning messy real-world problems into working software.
+I'm currently building my knowledge of cybersecurity fundamentals, networking, Linux, security monitoring, threat detection, and incident response.
 
-## Current Goal
+## 🎯 Current Learning Goals
 
-Actively seeking Software Engineer / SDE internship and full-time opportunities where I can apply my full-stack and ML skills to real products.
+- Understanding networking fundamentals and common protocols
+- Learning Linux and Kali Linux
+- Practicing network traffic analysis with Wireshark
+- Learning network scanning with Nmap
+- Understanding security logs, alerts, and incident investigation
+- Exploring SIEM tools and SOC workflows
 
-## Technologies
+## 🛠️ Technologies & Tools
 
-**Programming**
-- Java, JavaScript, Python
+**Operating Systems:** Linux, Kali Linux (learning)
 
-**Frontend**
-- React.js, HTML5, CSS3
+**Networking:** TCP/IP, DNS, HTTP/HTTPS (learning)
 
-**Backend**
-- Node.js, Express.js
+**Security Tools:** Wireshark, Nmap (learning and practice)
 
-**Databases**
-- MongoDB, MySQL, Firebase Firestore
+**Programming:** Python, Java
 
-**Data & ML**
-- NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV
+**Version Control:** Git and GitHub
 
-**Tools**
-- Git, GitHub, Postman, Jupyter Notebook, Google Colab, VS Code, Firebase Hosting
+## 🔬 Cybersecurity Projects
 
-## Featured Projects
+I'm building practical projects to improve my cybersecurity knowledge and develop hands-on SOC analysis skills.
 
-**AI-Powered Placement Preparation Platform** — React.js, Node.js, Firebase, Gemini API
-Full-stack platform with mock interviews, aptitude tests, coding challenges, resume analysis, and AI feedback.
+- Security log analysis
+- Network traffic analysis
+- Phishing email investigation
+- Basic threat detection using Python
 
-**Poultry Management System** — React.js, Node.js, MongoDB
-Full-stack farm management app with 6 modules and dashboard analytics; reduced manual tracking effort by 80%.
+*Project repositories will be added as I complete and document my practical work.*
 
-**Student Performance Prediction System** — Python, Pandas, Scikit-learn
-Regression pipeline predicting student scores; Linear Regression achieved R² of 0.78, outperforming Random Forest.
+## 📚 My Goal
 
-## Certifications
-- Oracle Cloud Infrastructure 2025 – Certified Generative AI Professional
-- AWS Academy Graduate – Cloud Foundations
-- Programming in Java – NPTEL (IIT Certified)
+My goal is to start my career as a SOC Analyst, gain hands-on experience in security monitoring and incident response, and continue growing in the cybersecurity field.
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/darshantonape
+- LinkedIn: Add your LinkedIn profile link here
+
+I'm always interested in learning, building projects, and exploring cybersecurity.
 
 ## Reach Me
 📧 darshantonape.nbnscoe.comp@gmail.com
