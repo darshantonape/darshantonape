@@ -45,10 +45,8 @@ My goal is to start my career as a SOC Analyst, gain hands-on experience in secu
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/darshantonape
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: linkedin.com/in/darshan-tonape
 
 I'm always interested in learning, building projects, and exploring cybersecurity.
 
-## Reach Me
-📧 darshantonape.nbnscoe.comp@gmail.com
-🔗 linkedin.com/in/darshan-tonape
+
